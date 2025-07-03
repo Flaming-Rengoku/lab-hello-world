@@ -1,6 +1,6 @@
-def main():
-    print("Hello from lab-hello-world!")
-
-
-if __name__ == "__main__":
-    main()
+print("Welcome to AI applications!")
+print("What is your name?")
+name = input()
+print("Hello", name,"!" + "Nice to meet you!" + " What is your favorite programming language?")
+language = input()
+print(language + " is a great choice!")
